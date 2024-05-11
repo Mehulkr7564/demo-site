@@ -1,0 +1,65 @@
+.main_outer{
+    width: 350px;
+    height: 500px;
+    
+    margin:auto;
+    text-align: center;
+    background-color:cadetblue;
+    border-radius: 5%;
+
+}
+h1{
+    text-align: center;
+    color:goldenrod;
+    margin-bottom: 2%;
+
+}
+h3{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+    background-color:gainsboro;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: aqua;
+    font-size:20px;
+}
+
+.green{
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    border-radius: 10%;
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 10%;
+}
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 10%;
+}
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 10%;
+}
+.outer{
+    display: inline-flex;
+    margin : auto;
+}
+
+.outer div{
+    margin:15px 5px;
+}
+ 
+.flash{
+    background-color: white;
+}
